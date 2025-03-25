@@ -1,0 +1,14 @@
+/home/dovely/bulb/CalculatorApp/bin/Debug/net9.0/CalculatorApp
+/home/dovely/bulb/CalculatorApp/bin/Debug/net9.0/CalculatorApp.deps.json
+/home/dovely/bulb/CalculatorApp/bin/Debug/net9.0/CalculatorApp.runtimeconfig.json
+/home/dovely/bulb/CalculatorApp/bin/Debug/net9.0/CalculatorApp.dll
+/home/dovely/bulb/CalculatorApp/bin/Debug/net9.0/CalculatorApp.pdb
+/home/dovely/bulb/CalculatorApp/obj/Debug/net9.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/dovely/bulb/CalculatorApp/obj/Debug/net9.0/CalculatorApp.AssemblyInfoInputs.cache
+/home/dovely/bulb/CalculatorApp/obj/Debug/net9.0/CalculatorApp.AssemblyInfo.cs
+/home/dovely/bulb/CalculatorApp/obj/Debug/net9.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/home/dovely/bulb/CalculatorApp/obj/Debug/net9.0/CalculatorApp.dll
+/home/dovely/bulb/CalculatorApp/obj/Debug/net9.0/refint/CalculatorApp.dll
+/home/dovely/bulb/CalculatorApp/obj/Debug/net9.0/CalculatorApp.pdb
+/home/dovely/bulb/CalculatorApp/obj/Debug/net9.0/CalculatorApp.genruntimeconfig.cache
+/home/dovely/bulb/CalculatorApp/obj/Debug/net9.0/ref/CalculatorApp.dll
