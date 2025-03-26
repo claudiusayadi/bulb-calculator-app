@@ -25,7 +25,7 @@ This Calculator App is a beginner-friendly project designed to help learn the ba
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/claudiusayadi/CalculatorApp.git
+   git clone https://github.com/claudiusayadi/bulb-calculator-app.git
    ```
 
 2. Navigate to the project directory:
@@ -59,7 +59,7 @@ This Calculator App is a beginner-friendly project designed to help learn the ba
 
 - C# syntax basics
 - Console input/output operations
-- Control flow (if statements, loops)
+- Control flow (if statements, switch-case loop)
 - Basic error handling
 - Code organization
 
